@@ -1,12 +1,9 @@
 {
-  "homepage": "https://serialkiller33.github.io/Portfolio/",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",  
+  "scripts": {  
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
