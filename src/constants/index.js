@@ -177,7 +177,7 @@ const testimonials = [
         name: "Chris Brown",
         designation: "COO",
         company: "DEF Corp",
-        image: "https://randomuser.me/api/portraits/men/5.jpg",
+        image: "https://randomuser.me/api/portraits/men/7.jpg",
     },
     {
         testimonial:
