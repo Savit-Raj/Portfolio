@@ -190,25 +190,25 @@ const testimonials = [
 ];
 const projects = [
     {
-        name: "Car Rent",
+        name: "Face Attendance System",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "This transformative project aims to modernize attendance practices across multiple organizations, enhancing efficiency and effectiveness with innovative solutions.",
         tags: [
             {
-                name: "react",
+                name: "OpenCV",
                 color: "blue-text-gradient",
             },
             {
-                name: "mongodb",
+                name: "face-recognition",
                 color: "green-text-gradient",
             },
             {
-                name: "tailwind",
+                name: "SVM",
                 color: "pink-text-gradient",
             },
         ],
         image: carrent,
-        source_code_link: "https://github.com/",
+        source_code_Link: "https://github.com/Savit-Raj/Face-Recognition-Attendance-System",
     },
     {
         name: "Job IT",
