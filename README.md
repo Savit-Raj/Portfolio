@@ -25,5 +25,5 @@ My portfolio project is a showcase of my skills and experience in web developmen
 
 ## Contact
 E-mail: savitraj81597@gmail.com<br>
-Linkedin: www.linkedin.com/in/savit-raj
-Webpage: https://savit-raj.github.io/Portfolio/
+Linkedin: www.linkedin.com/in/savit-raj<br>
+Webpage: https://savit-raj.github.io/Portfolio/<br>
